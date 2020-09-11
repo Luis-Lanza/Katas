@@ -18,9 +18,8 @@ let arr = arr;
 for (arr.[i]; i < arr.lenght; ++i) {
     let stringCharacters = str.split('');
     const foundCharVals = stringCharacters.map(
-        find(
-            element => 
-        )).
+        
+    )
 
     return
 }
@@ -32,7 +31,7 @@ str.
 array of split String (array of characters)
 
 
-
+stringCharacters.find(element => )
     
 
 
